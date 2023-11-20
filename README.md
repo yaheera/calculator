@@ -1,1 +1,1 @@
-# calculator https://github.com/yaheera/calculator.git
+# calculator https://github.com/yaheera/calculator
